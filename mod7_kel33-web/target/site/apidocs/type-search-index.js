@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.mod7_kel01.resources","l":"JakartaEE10Resource"},{"p":"com.mycompany.mod7_kel01","l":"JakartaRestConfiguration"}];updateSearchResults();
